@@ -1,7 +1,9 @@
 # Palindrome Answer
 This is a simple app that returns wether the word or words a user enters is a palindrome or not.
 
-![alt tag](palindrome.png)
+
+
+![alt tag](https://drive.google.com/uc?export=view&id=1DbJbePSs_X2ufQzcJCRjtLL6gZ90OKne)
 
 ## How It's Made:
 
